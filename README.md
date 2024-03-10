@@ -8,8 +8,6 @@
 ## Formatting Data
 Check out test_data/
 
-You will need to run NetMapper v1.0.1.18 on your data and save the CUES file for import for bot bias
-
 ## Interpreting BotBuster Outputs
 Use the column `botornot`. 
 The user is a bot if the `humanprob` is greater than `botprob`
@@ -21,7 +19,7 @@ All Bot Detection and Analysis papers: https://quarbby.github.io/research/botbus
 1. BotBuster: Ng, L. H. X., & Carley, K. M. (2023, June). Botbuster: Multi-platform bot detection using a mixture of experts. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 17, pp. 686-697).
 2. BotBuster4Everyone: Ng, L. H. X., & Carley, K. M. (2024). Assembling a multi-platform ensemble social bot detector with applications to US 2020 elections. Social Network Analysis and Mining, 14(1), 1-16.
 3. BotBuster Telegram: Ng, L. H. X., Kloo, I., & Carley, K. M. (2024). An Exploratory Analysis of COVID Bot vs Human Disinformation Dissemination stemming from the Disinformation Dozen on Telegram. arXiv preprint arXiv:2402.14203.
-4. 
+4. BotSorter and BotBias papers are under review. Preprint will be posted soon.
 
 *Bot Analysis Papers*
 1. Ng, L. H. X., Robertson, D. C., & Carley, K. M. (2024). Cyborgs for strategic communication on social media. Big Data & Society, 11(1), 20539517241231275.

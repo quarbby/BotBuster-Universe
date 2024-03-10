@@ -1,5 +1,12 @@
 # BotBuster Universe
 
+- BotBuster: Performs bot detection for Twitter (X), Reddit, Instagram bios, Telegram. 
+
+- BotSorter: Identifies the type of user, in terms of : self-declared bot user, news user, bridging user, amplifier, cyborg, content generation, announcer and repeater.
+Note that this does not differentiate into bot or not, and you should merge the results with the bot detection dataset to identify if the user is a bot or not with the properties.
+
+- BotBias: Identifies the bias present in a message, in terms of : homophily, affect bias, negativity bias, authority bias, illusory truth effect, availability bias, confirmation bias
+
 ## Installation
 1. Install Python Version 3.9.7
 2. Run `python -r requirements.txt`
@@ -15,11 +22,23 @@ The user is a bot if the `humanprob` is greater than `botprob`
 ## Reference Papers:
 All Bot Detection and Analysis papers: https://quarbby.github.io/research/botbuster_universe.html. Select few are listed here:
 
+*Key Citation*
+```
+@inproceedings{ng2023botbuster,
+  title={Botbuster: Multi-platform bot detection using a mixture of experts},
+  author={Ng, Lynnette Hui Xian and Carley, Kathleen M},
+  booktitle={Proceedings of the international AAAI conference on web and social media},
+  volume={17},
+  pages={686--697},
+  year={2023}
+}
+```
+
 *Bot Detection Papers*
 1. BotBuster: Ng, L. H. X., & Carley, K. M. (2023, June). Botbuster: Multi-platform bot detection using a mixture of experts. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 17, pp. 686-697).
-2. BotBuster4Everyone: Ng, L. H. X., & Carley, K. M. (2024). Assembling a multi-platform ensemble social bot detector with applications to US 2020 elections. Social Network Analysis and Mining, 14(1), 1-16.
-3. BotBuster Telegram: Ng, L. H. X., Kloo, I., & Carley, K. M. (2024). An Exploratory Analysis of COVID Bot vs Human Disinformation Dissemination stemming from the Disinformation Dozen on Telegram. arXiv preprint arXiv:2402.14203.
-4. BotSorter and BotBias papers are under review. Preprint will be posted soon.
+3. BotBuster4Everyone: Ng, L. H. X., & Carley, K. M. (2024). Assembling a multi-platform ensemble social bot detector with applications to US 2020 elections. Social Network Analysis and Mining, 14(1), 1-16.
+4. BotBuster Telegram: Ng, L. H. X., Kloo, I., & Carley, K. M. (2024). An Exploratory Analysis of COVID Bot vs Human Disinformation Dissemination stemming from the Disinformation Dozen on Telegram. arXiv preprint arXiv:2402.14203.
+5. BotSorter and BotBias papers are under review. Watch this space for an update of preprint!! 
 
 *Bot Analysis Papers*
 1. Ng, L. H. X., Robertson, D. C., & Carley, K. M. (2024). Cyborgs for strategic communication on social media. Big Data & Society, 11(1), 20539517241231275.

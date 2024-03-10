@@ -1,0 +1,2056 @@
+{
+    "data": [
+        {
+            "geo": {
+                "coordinates": {
+                    "type": "Point",
+                    "coordinates": [
+                        -74.0210923,
+                        41.93357861
+                    ]
+                },
+                "place_id": "1385e8d7843ce9d7"
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1413191025640853520"
+                ]
+            },
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1413191027658199043",
+            "created_at": "2021-07-08T17:39:31.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 80,
+                        "end": 103,
+                        "url": "https://t.co/vjeEd3Ni9L",
+                        "expanded_url": "https://www.swarmapp.com/c/j6NmQQK4XIU",
+                        "display_url": "swarmapp.com/c/j6NmQQK4XIU"
+                    },
+                    {
+                        "start": 104,
+                        "end": 127,
+                        "url": "https://t.co/OtJFl6cWM3",
+                        "expanded_url": "https://twitter.com/dens/status/1413191027658199043/photo/1",
+                        "display_url": "pic.twitter.com/OtJFl6cWM3"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 62,
+                        "end": 73,
+                        "probability": 0.9289,
+                        "type": "Place",
+                        "normalized_text": "Kingston, NY"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 20,
+                        "end": 31,
+                        "username": "rogbennett",
+                        "id": "116947296"
+                    }
+                ]
+            },
+            "id": "1413191027658199043",
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 30,
+                "quote_count": 0
+            },
+            "source": "Foursquare",
+            "text": "New book pickup! cc @rogbennett (@ Rough Draft Bar &amp; Books in Kingston, NY) https://t.co/vjeEd3Ni9L https://t.co/OtJFl6cWM3",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1413126613429071873",
+            "created_at": "2021-07-08T14:03:51.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1413126613429071873"
+                }
+            ],
+            "in_reply_to_user_id": "838930324964917248",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 14,
+                        "end": 21,
+                        "probability": 0.8398,
+                        "type": "Place",
+                        "normalized_text": "Kingston"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "olegkogan",
+                        "id": "838930324964917248"
+                    }
+                ]
+            },
+            "id": "1413136752579989515",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "@olegkogan In Kingston, but may be back next week?",
+            "reply_settings": "everyone"
+        },
+        {
+            "geo": {
+                "coordinates": {
+                    "type": "Point",
+                    "coordinates": [
+                        -73.9983278,
+                        40.724703
+                    ]
+                },
+                "place_id": "01a9a39529b27f36"
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1412888502367309828"
+                ]
+            },
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412888504229670912",
+            "created_at": "2021-07-07T21:37:24.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 106,
+                        "end": 129,
+                        "url": "https://t.co/qpGrREglRx",
+                        "expanded_url": "https://www.swarmapp.com/c/8Q9uyNpcISI",
+                        "display_url": "swarmapp.com/c/8Q9uyNpcISI",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1412888505726951428/y_4vk_Bp?format=jpg&name=orig",
+                                "width": 600,
+                                "height": 600
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1412888505726951428/y_4vk_Bp?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Dens | Lure Fishbar",
+                        "description": "Get out. Explore. Download Swarm and live your life more checked in.",
+                        "unwound_url": "https://www.swarmapp.com/c/8Q9uyNpcISI"
+                    },
+                    {
+                        "start": 130,
+                        "end": 153,
+                        "url": "https://t.co/B3ss6dXwVz",
+                        "expanded_url": "https://twitter.com/dens/status/1412888504229670912/photo/1",
+                        "display_url": "pic.twitter.com/B3ss6dXwVz"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 58,
+                        "end": 64,
+                        "probability": 0.4024,
+                        "type": "Other",
+                        "normalized_text": "Baby Dr"
+                    },
+                    {
+                        "start": 92,
+                        "end": 103,
+                        "probability": 0.8591,
+                        "type": "Place",
+                        "normalized_text": "New York, NY"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 76,
+                        "end": 88,
+                        "username": "LureFishbar",
+                        "id": "116241002"
+                    }
+                ]
+            },
+            "id": "1412888504229670912",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "source": "Foursquare",
+            "text": "First lobster roll of the season (and splurge-snack after Baby Dr appt) (at @LureFishbar in New York, NY) https://t.co/qpGrREglRx https://t.co/B3ss6dXwVz",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412801798579052551",
+            "created_at": "2021-07-07T15:52:52.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1412541557828296705"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 11,
+                        "end": 34,
+                        "url": "https://t.co/bVOMtH34xl",
+                        "expanded_url": "https://twitter.com/amyis_trying/status/1412541557828296705",
+                        "display_url": "twitter.com/amyis_trying/s…"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "01a9a39529b27f36"
+            },
+            "id": "1412801798579052551",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 10,
+                "quote_count": 1
+            },
+            "source": "Twitter for iPhone",
+            "text": "Good take: https://t.co/bVOMtH34xl",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412745339438837763",
+            "created_at": "2021-07-07T12:18:51.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1412745339438837763"
+                }
+            ],
+            "in_reply_to_user_id": "607",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 28,
+                        "end": 30,
+                        "probability": 0.9706,
+                        "type": "Place",
+                        "normalized_text": "NYC"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 3,
+                        "username": "mg",
+                        "id": "607"
+                    },
+                    {
+                        "start": 4,
+                        "end": 8,
+                        "username": "ATT",
+                        "id": "14620190"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "94965b2c45386f87"
+            },
+            "id": "1412747941425696774",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "@mg @ATT No. But welcome to NYC!",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412723654811688963",
+            "created_at": "2021-07-07T10:42:21.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1412371388883738627"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 158,
+                        "end": 181,
+                        "url": "https://t.co/YMw6CM2a8A",
+                        "expanded_url": "https://twitter.com/marknyt/status/1412371388883738627",
+                        "display_url": "twitter.com/marknyt/status…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 49,
+                        "end": 56,
+                        "probability": 0.9169,
+                        "type": "Organization",
+                        "normalized_text": "Fox News"
+                    },
+                    {
+                        "start": 66,
+                        "end": 76,
+                        "probability": 0.3724,
+                        "type": "Organization",
+                        "normalized_text": "Fox Weather"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "94965b2c45386f87"
+            },
+            "id": "1412723654811688963",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 15,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "Ugh, all I can think of is my dad switching from Fox News 24/7 to Fox Weather 24/7 — aka switching from “Stop the Steal!” to “Climate Change is a Hoax!” 24/7 https://t.co/YMw6CM2a8A",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412577465545986048",
+            "created_at": "2021-07-07T02:18:25.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1412588261952864257"
+                }
+            ],
+            "in_reply_to_user_id": "182619958",
+            "id": "1412596837664673799",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "steviesanchise",
+                        "id": "182619958"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "@steviesanchise This is true.",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412592066526334978",
+            "created_at": "2021-07-07T02:05:22.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1412592744250449927"
+                }
+            ],
+            "in_reply_to_user_id": "737986556502380544",
+            "id": "1412593553600040962",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "username": "elizhargrave",
+                        "id": "737986556502380544"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "@elizhargrave &gt;&gt;  (746,991 units printed by the end of 2020)\nWow!  Congrats!",
+            "reply_settings": "everyone"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "16_1412428825389002752"
+                ]
+            },
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412585950874570756",
+            "created_at": "2021-07-07T01:35:09.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1412453695787204609"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 33,
+                        "end": 56,
+                        "url": "https://t.co/b4vFyv0TC6",
+                        "expanded_url": "https://twitter.com/starturnz/status/1412453695787204609/photo/1",
+                        "display_url": "pic.twitter.com/b4vFyv0TC6"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 15,
+                        "end": 19,
+                        "probability": 0.4613,
+                        "type": "Person",
+                        "normalized_text": "Mario"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "starturnz",
+                        "id": "1202396874700804097"
+                    }
+                ]
+            },
+            "id": "1412585950874570756",
+            "public_metrics": {
+                "retweet_count": 8729,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "RT @starturnz: Mario / 95 covers https://t.co/b4vFyv0TC6",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412577465545986048",
+            "created_at": "2021-07-07T01:01:26.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 22,
+                        "end": 37,
+                        "probability": 0.464,
+                        "type": "Other",
+                        "normalized_text": "The Bachelorette"
+                    }
+                ]
+            },
+            "id": "1412577465545986048",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 3,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "Every time I pop into The Bachelorette for like 10 seconds:  \"Girl, I just want to tell you about the drama in the house...  blah blah blah ... guys here for the wrong reason.. blah blah blah...\"",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412461445258874887",
+            "created_at": "2021-07-06T17:28:52.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1412462971859587076"
+                }
+            ],
+            "in_reply_to_user_id": "312479100",
+            "id": "1412463573108940802",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "username": "dflieb",
+                        "id": "312479100"
+                    },
+                    {
+                        "start": 8,
+                        "end": 19,
+                        "username": "googlenest",
+                        "id": "168264219"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "@dflieb @googlenest Bummer... I may be able to hack it together by creating 60 of these 30 second timelapses.  🤷🏻‍♂️",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412461445258874887",
+            "created_at": "2021-07-06T17:20:25.000Z",
+            "id": "1412461445258874887",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 36,
+                        "end": 47,
+                        "username": "googlenest",
+                        "id": "168264219"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "Anyone know if I can use Nest Cam / @GoogleNest   footage to create a timelapse video of 60 days of footage?  Seems like you can only do this for a single 24 hour period (and not 60 day period) -- wah!",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412420184380522505",
+            "created_at": "2021-07-06T14:43:04.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1412421628961693698"
+                }
+            ],
+            "in_reply_to_user_id": "15040743",
+            "id": "1412421845853278212",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 15,
+                        "username": "nathenmcvittie",
+                        "id": "15040743"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "@nathenmcvittie Nope.  But I feel better blasting more people, esp when they've bough tix in the past.",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412420184380522505",
+            "created_at": "2021-07-06T14:42:19.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1412421325512138759"
+                }
+            ],
+            "in_reply_to_user_id": "192633618",
+            "id": "1412421656161796097",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "username": "hsaboia",
+                        "id": "192633618"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "@hsaboia Yes, average attendance is down for sure – our biggest crowd has been 807 (when it's usually over 1000) and the first few games were capped at 200 fans.",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1409506346391719941",
+            "created_at": "2021-07-06T14:41:33.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1412261030957305856"
+                }
+            ],
+            "in_reply_to_user_id": "4733771",
+            "id": "1412421466541408257",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 5,
+                        "username": "evco",
+                        "id": "4733771"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "@evco Ha, thx pal.  And at least you didn't use the Biz Punk cover🤦🏻",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412420184380522505",
+            "created_at": "2021-07-06T14:38:05.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1412420184380522505"
+                }
+            ],
+            "in_reply_to_user_id": "418",
+            "id": "1412420591030841359",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 9,
+                "quote_count": 1
+            },
+            "source": "Twitter Web App",
+            "text": "aka:  It took us 4 seasons to build a decent email list, and we doubled the size of it in just 1 season by requiring tickets be purchased online.  Huh!",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412420184380522505",
+            "created_at": "2021-07-06T14:36:28.000Z",
+            "id": "1412420184380522505",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 17,
+                        "end": 28,
+                        "username": "StockadeFC",
+                        "id": "3343183865"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 22,
+                "quote_count": 1
+            },
+            "source": "Twitter Web App",
+            "text": "⚽️✉️ Interesting @StockadeFC tidbit:  w/ COVID we required order-online + digital tickets (via Eventbrite). So we went from \"90% box office, 10% digital tix\" in 2019 -&gt; \"100% digital tix\" in 2021.  As digital tickets require email address, Stockade email list is now 2x bigger.",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "und",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412199737739128838",
+            "created_at": "2021-07-06T00:14:08.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1412202326618673153"
+                }
+            ],
+            "in_reply_to_user_id": "15534499",
+            "geo": {
+                "place_id": "94965b2c45386f87"
+            },
+            "id": "1412203171917844482",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "datachick",
+                        "id": "15534499"
+                    },
+                    {
+                        "start": 11,
+                        "end": 20,
+                        "username": "INKnBURN",
+                        "id": "34088945"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "@datachick @INKnBURN 👍🏼",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "en",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412199737739128838",
+            "created_at": "2021-07-06T00:08:35.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "replied_to",
+                    "id": "1412199737739128838"
+                }
+            ],
+            "in_reply_to_user_id": "15534499",
+            "geo": {
+                "place_id": "94965b2c45386f87"
+            },
+            "id": "1412201776766402570",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 0,
+                        "end": 10,
+                        "username": "datachick",
+                        "id": "15534499"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "@datachick What’s this shirt? It’s awesome!",
+            "reply_settings": "everyone"
+        },
+        {
+            "lang": "und",
+            "author_id": "418",
+            "possibly_sensitive": false,
+            "conversation_id": "1412200933627473924",
+            "created_at": "2021-07-06T00:05:14.000Z",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1412014368804454400"
+                }
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 3,
+                        "end": 26,
+                        "url": "https://t.co/TAUqyfZHTG",
+                        "expanded_url": "https://twitter.com/driesdepoorter/status/1412014368804454400",
+                        "display_url": "twitter.com/driesdepoorter…"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "94965b2c45386f87"
+            },
+            "id": "1412200933627473924",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 21,
+                "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "❤️ https://t.co/TAUqyfZHTG",
+            "reply_settings": "everyone"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "name": "Dennis Crowley 🇺🇸",
+                "verified": true,
+                "location": "NYC / Kingston",
+                "description": "I like to build things (@Foursquare📱, @StockadeFC ⚽️ @StreetFC, Dodgeball 📟) Husband to @Chelsa, dad to 👧🏼❄️ & 👶🏼🚀. I enjoy snowboards, soccer & hot dogs",
+                "protected": false,
+                "id": "418",
+                "public_metrics": {
+                    "followers_count": 82827,
+                    "following_count": 3128,
+                    "tweet_count": 76028,
+                    "listed_count": 4166
+                },
+                "username": "dens",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/63fYABYs9J",
+                                "expanded_url": "http://www.denniscrowley.com",
+                                "display_url": "denniscrowley.com"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "mentions": [
+                            {
+                                "start": 24,
+                                "end": 35,
+                                "username": "Foursquare"
+                            },
+                            {
+                                "start": 38,
+                                "end": 49,
+                                "username": "StockadeFC"
+                            },
+                            {
+                                "start": 53,
+                                "end": 62,
+                                "username": "StreetFC"
+                            },
+                            {
+                                "start": 88,
+                                "end": 95,
+                                "username": "Chelsa"
+                            }
+                        ]
+                    }
+                },
+                "url": "https://t.co/63fYABYs9J",
+                "created_at": "2006-07-05T19:52:46.000Z"
+            },
+            {
+                "name": "🥑",
+                "verified": false,
+                "location": "New York, NY",
+                "description": "👨‍🚀🏃‍♂️🥑👨‍💻🧬🧠\n⚡️Founder of https://t.co/wcaxs9FJbV\n🥑working on AWE",
+                "protected": false,
+                "id": "838930324964917248",
+                "public_metrics": {
+                    "followers_count": 500,
+                    "following_count": 494,
+                    "tweet_count": 4520,
+                    "listed_count": 23
+                },
+                "username": "olegkogan",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/wcaxs9FJbV",
+                                "expanded_url": "http://ima.ai",
+                                "display_url": "ima.ai"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "start": 27,
+                                "end": 50,
+                                "url": "https://t.co/wcaxs9FJbV",
+                                "expanded_url": "http://ima.ai",
+                                "display_url": "ima.ai"
+                            }
+                        ]
+                    }
+                },
+                "url": "https://t.co/wcaxs9FJbV",
+                "created_at": "2017-03-07T01:52:30.000Z"
+            },
+            {
+                "name": "Amy",
+                "verified": false,
+                "location": "the suburb from Weeds ",
+                "description": "TV/comedy writer, PhD dropout, bar hand @EdFringe. Writing on Patreon.",
+                "protected": false,
+                "id": "201337460",
+                "public_metrics": {
+                    "followers_count": 34337,
+                    "following_count": 3269,
+                    "tweet_count": 30888,
+                    "listed_count": 184
+                },
+                "username": "amyis_trying",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/tYFXAA1Elw",
+                                "expanded_url": "https://www.patreon.com/amy_I",
+                                "display_url": "patreon.com/amy_I"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "mentions": [
+                            {
+                                "start": 40,
+                                "end": 49,
+                                "username": "EdFringe"
+                            }
+                        ]
+                    }
+                },
+                "url": "https://t.co/tYFXAA1Elw",
+                "created_at": "2010-10-11T16:42:52.000Z"
+            },
+            {
+                "name": "Matt Galligan.eth",
+                "verified": true,
+                "location": "Lehigh Valley, PA",
+                "description": "🚀 Co-founder & CEO of @XMTPdotcom, 👦🏼 Nash’s dad, 🌽 Midwesterner, 👨🏼‍🎨 designer, 🎸 musician, 🍔 burger enthusiast, ☕️ craft coffee and beer lover",
+                "protected": false,
+                "id": "607",
+                "public_metrics": {
+                    "followers_count": 25995,
+                    "following_count": 1219,
+                    "tweet_count": 37794,
+                    "listed_count": 1434
+                },
+                "username": "mg",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/DlmlCSxaQP",
+                                "expanded_url": "https://hi.mg",
+                                "display_url": "hi.mg"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "mentions": [
+                            {
+                                "start": 22,
+                                "end": 33,
+                                "username": "XMTPdotcom"
+                            }
+                        ]
+                    }
+                },
+                "url": "https://t.co/DlmlCSxaQP",
+                "created_at": "2006-07-13T18:21:58.000Z"
+            },
+            {
+                "name": "Mark S. Getzfred",
+                "verified": true,
+                "location": "New York City",
+                "description": "Editor on the News Desk of The New York Times. Posting stories about America.",
+                "protected": false,
+                "id": "39044325",
+                "public_metrics": {
+                    "followers_count": 4132,
+                    "following_count": 474,
+                    "tweet_count": 42769,
+                    "listed_count": 186
+                },
+                "username": "marknyt",
+                "url": "",
+                "created_at": "2009-05-10T13:16:52.000Z"
+            },
+            {
+                "name": "Steve Sanchez",
+                "verified": false,
+                "location": "NYC",
+                "description": "Founder of Branches. Branches creates rural retreats that combine tech, wellness, and lodging in natural surroundings.",
+                "protected": false,
+                "id": "182619958",
+                "public_metrics": {
+                    "followers_count": 139,
+                    "following_count": 538,
+                    "tweet_count": 276,
+                    "listed_count": 1
+                },
+                "username": "steviesanchise",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/Tr991oRzSs",
+                                "expanded_url": "http://www.visitbranches.com",
+                                "display_url": "visitbranches.com"
+                            }
+                        ]
+                    }
+                },
+                "url": "https://t.co/Tr991oRzSs",
+                "created_at": "2010-08-25T00:52:52.000Z"
+            },
+            {
+                "name": "Elizabeth Hargrave",
+                "verified": false,
+                "location": "Silver Spring, MD",
+                "description": "Board game designer (Wingspan, Tussie-Mussie, Mariposas), nature geek, feminist. she/her",
+                "protected": false,
+                "id": "737986556502380544",
+                "public_metrics": {
+                    "followers_count": 11752,
+                    "following_count": 898,
+                    "tweet_count": 8337,
+                    "listed_count": 175
+                },
+                "username": "elizhargrave",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/XGDX75uNJc",
+                                "expanded_url": "https://www.elizhargrave.com/",
+                                "display_url": "elizhargrave.com"
+                            }
+                        ]
+                    }
+                },
+                "url": "https://t.co/XGDX75uNJc",
+                "created_at": "2016-06-01T12:38:00.000Z"
+            },
+            {
+                "name": "Star💫Turns [cw: strobing]",
+                "verified": false,
+                "description": "Animated actor portraits hand-made from film posters by Duncan Robson @dunkr / Instagram: star.turns / TikTok: starturns",
+                "protected": false,
+                "id": "1202396874700804097",
+                "public_metrics": {
+                    "followers_count": 1182,
+                    "following_count": 1,
+                    "tweet_count": 66,
+                    "listed_count": 4
+                },
+                "username": "starturnz",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/VSZfgYBWDc",
+                                "expanded_url": "http://ko-fi.com/duncanrobson",
+                                "display_url": "ko-fi.com/duncanrobson"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "mentions": [
+                            {
+                                "start": 70,
+                                "end": 76,
+                                "username": "dunkr"
+                            }
+                        ]
+                    }
+                },
+                "url": "https://t.co/VSZfgYBWDc",
+                "created_at": "2019-12-05T01:19:01.000Z"
+            },
+            {
+                "name": "David Lieb",
+                "verified": true,
+                "location": "San Francisco, CA",
+                "description": "Product Lead, Google Photos. Previously cofounder/CEO of Bump. Investor in startups. Optimist.",
+                "protected": false,
+                "id": "312479100",
+                "public_metrics": {
+                    "followers_count": 21181,
+                    "following_count": 1004,
+                    "tweet_count": 4932,
+                    "listed_count": 461
+                },
+                "username": "dflieb",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/kwVlGj5Kde",
+                                "expanded_url": "http://google.com/photos",
+                                "display_url": "google.com/photos"
+                            }
+                        ]
+                    }
+                },
+                "url": "https://t.co/kwVlGj5Kde",
+                "created_at": "2011-06-07T05:47:14.000Z"
+            },
+            {
+                "name": "Nathen McVittie",
+                "verified": false,
+                "location": "Los Angeles, CA",
+                "description": "Director of Creative, Games Marketing: @JoinOneTeam\nProjects: @WhereIsFootball, @CommonGoal\n🏆: @LCFC, @NYCosmos",
+                "protected": false,
+                "id": "15040743",
+                "public_metrics": {
+                    "followers_count": 4543,
+                    "following_count": 244,
+                    "tweet_count": 348,
+                    "listed_count": 134
+                },
+                "username": "nathenmcvittie",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/oWEy9MWyO7",
+                                "expanded_url": "http://www.nathenmcvittie.com",
+                                "display_url": "nathenmcvittie.com"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "mentions": [
+                            {
+                                "start": 39,
+                                "end": 51,
+                                "username": "JoinOneTeam"
+                            },
+                            {
+                                "start": 62,
+                                "end": 78,
+                                "username": "WhereIsFootball"
+                            },
+                            {
+                                "start": 80,
+                                "end": 91,
+                                "username": "CommonGoal"
+                            },
+                            {
+                                "start": 95,
+                                "end": 100,
+                                "username": "LCFC"
+                            },
+                            {
+                                "start": 102,
+                                "end": 111,
+                                "username": "NYCosmos"
+                            }
+                        ]
+                    }
+                },
+                "url": "https://t.co/oWEy9MWyO7",
+                "created_at": "2008-06-07T19:18:00.000Z"
+            },
+            {
+                "name": "Henrique",
+                "verified": false,
+                "location": "San Francisco, Chicago",
+                "description": "Brazilian expat in the US. Growth at @HingeHealth; previously @lyft @twitter @kiva @medium",
+                "protected": false,
+                "id": "192633618",
+                "public_metrics": {
+                    "followers_count": 1322,
+                    "following_count": 3362,
+                    "tweet_count": 9302,
+                    "listed_count": 32
+                },
+                "username": "hsaboia",
+                "entities": {
+                    "description": {
+                        "mentions": [
+                            {
+                                "start": 37,
+                                "end": 49,
+                                "username": "HingeHealth"
+                            },
+                            {
+                                "start": 62,
+                                "end": 67,
+                                "username": "lyft"
+                            },
+                            {
+                                "start": 68,
+                                "end": 76,
+                                "username": "twitter"
+                            },
+                            {
+                                "start": 77,
+                                "end": 82,
+                                "username": "kiva"
+                            },
+                            {
+                                "start": 83,
+                                "end": 90,
+                                "username": "medium"
+                            }
+                        ]
+                    }
+                },
+                "url": "",
+                "created_at": "2010-09-19T18:33:29.000Z"
+            },
+            {
+                "name": "Evan Cohen",
+                "verified": false,
+                "location": "New York",
+                "description": "techie.  not a professional sports radio talk show host.",
+                "protected": false,
+                "id": "4733771",
+                "public_metrics": {
+                    "followers_count": 1958,
+                    "following_count": 649,
+                    "tweet_count": 431,
+                    "listed_count": 125
+                },
+                "username": "evco",
+                "url": "",
+                "created_at": "2007-04-15T10:19:39.000Z"
+            },
+            {
+                "name": "Karen López 💉💉❤️",
+                "verified": false,
+                "location": "Toronto, Ontario",
+                "description": "Digital Smartieskirt | Space Enthusiast 🚀Speaker| Data Platform | #NASADatanaut 🌎Traveller| #TeamData | Snarky | Snotty-nosed kid & liar says boys.",
+                "protected": false,
+                "id": "15534499",
+                "public_metrics": {
+                    "followers_count": 14422,
+                    "following_count": 5723,
+                    "tweet_count": 350970,
+                    "listed_count": 1297
+                },
+                "username": "datachick",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/mIP0PrWWlM",
+                                "expanded_url": "http://www.datamodel.com",
+                                "display_url": "datamodel.com"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "hashtags": [
+                            {
+                                "start": 66,
+                                "end": 79,
+                                "tag": "NASADatanaut"
+                            },
+                            {
+                                "start": 92,
+                                "end": 101,
+                                "tag": "TeamData"
+                            }
+                        ]
+                    }
+                },
+                "url": "https://t.co/mIP0PrWWlM",
+                "created_at": "2008-07-22T18:06:07.000Z"
+            },
+            {
+                "name": "Dries Depoorter",
+                "verified": false,
+                "location": "Belgium",
+                "description": "Speaker / Artist \nCreator of Die With Me: the chat app you can only use when you have less than 5% battery. I make projects around surveillance, privacy and AI",
+                "protected": false,
+                "id": "284013628",
+                "public_metrics": {
+                    "followers_count": 3953,
+                    "following_count": 2088,
+                    "tweet_count": 2446,
+                    "listed_count": 74
+                },
+                "username": "driesdepoorter",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/qBoyAbxtxt",
+                                "expanded_url": "https://driesdepoorter.be",
+                                "display_url": "driesdepoorter.be"
+                            }
+                        ]
+                    }
+                },
+                "url": "https://t.co/qBoyAbxtxt",
+                "created_at": "2011-04-18T13:13:16.000Z"
+            }
+        ],
+        "tweets": [
+            {
+                "lang": "en",
+                "author_id": "838930324964917248",
+                "possibly_sensitive": false,
+                "conversation_id": "1413126613429071873",
+                "created_at": "2021-07-08T13:23:33.000Z",
+                "in_reply_to_user_id": "418",
+                "id": "1413126613429071873",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "username": "dens",
+                            "id": "418"
+                        }
+                    ]
+                },
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 1,
+                    "like_count": 0,
+                    "quote_count": 0
+                },
+                "source": "Twitter Web App",
+                "text": "@dens run tomorrow ? 🙃",
+                "reply_settings": "everyone"
+            },
+            {
+                "lang": "en",
+                "author_id": "201337460",
+                "possibly_sensitive": false,
+                "conversation_id": "1412541557828296705",
+                "created_at": "2021-07-06T22:38:45.000Z",
+                "referenced_tweets": [
+                    {
+                        "type": "quoted",
+                        "id": "1412452810654994435"
+                    }
+                ],
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 100,
+                            "end": 123,
+                            "url": "https://t.co/ErCCVwaYWE",
+                            "expanded_url": "https://twitter.com/thehill/status/1412452810654994435",
+                            "display_url": "twitter.com/thehill/status…"
+                        }
+                    ]
+                },
+                "id": "1412541557828296705",
+                "public_metrics": {
+                    "retweet_count": 59760,
+                    "reply_count": 210,
+                    "like_count": 246059,
+                    "quote_count": 318
+                },
+                "source": "Twitter for iPhone",
+                "text": "By 3%... Pay per click journalism is absolutely tanking public health communication. Get your shot. https://t.co/ErCCVwaYWE",
+                "reply_settings": "everyone"
+            },
+            {
+                "attachments": {
+                    "media_keys": [
+                        "3_1412745336435757060"
+                    ]
+                },
+                "lang": "en",
+                "author_id": "607",
+                "possibly_sensitive": false,
+                "conversation_id": "1412745339438837763",
+                "created_at": "2021-07-07T12:08:31.000Z",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 236,
+                            "end": 259,
+                            "url": "https://t.co/Kcuz2ECN6N",
+                            "expanded_url": "https://twitter.com/mg/status/1412745339438837763/photo/1",
+                            "display_url": "pic.twitter.com/Kcuz2ECN6N"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "start": 52,
+                            "end": 57,
+                            "probability": 0.9266,
+                            "type": "Product",
+                            "normalized_text": "iPhone"
+                        },
+                        {
+                            "start": 136,
+                            "end": 138,
+                            "probability": 0.9707,
+                            "type": "Place",
+                            "normalized_text": "NYC"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 66,
+                            "end": 70,
+                            "username": "ATT",
+                            "id": "14620190"
+                        }
+                    ]
+                },
+                "geo": {
+                    "place_id": "01a9a39529b27f36"
+                },
+                "id": "1412745339438837763",
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 3,
+                    "like_count": 3,
+                    "quote_count": 0
+                },
+                "source": "Twitter for iPhone",
+                "text": "Does anyone know of a way to explicitly disallow an iPhone on the @ATT network from joining its many WiFi hotspots while walking around NYC?\n\nNo amount of “Forget this Network” or turning off auto-join solves this and it’s INFURIATING. https://t.co/Kcuz2ECN6N",
+                "reply_settings": "everyone"
+            },
+            {
+                "lang": "en",
+                "author_id": "39044325",
+                "possibly_sensitive": false,
+                "conversation_id": "1412371388883738627",
+                "created_at": "2021-07-06T11:22:34.000Z",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 190,
+                            "end": 213,
+                            "url": "https://t.co/rBQOda1SKi",
+                            "expanded_url": "https://www.nytimes.com/2021/07/06/business/media/fox-weather-channel-plus.html?smid=tw-share",
+                            "display_url": "nytimes.com/2021/07/06/bus…",
+                            "images": [
+                                {
+                                    "url": "https://pbs.twimg.com/news_img/1412305573568290818/EgevQEZ2?format=jpg&name=orig",
+                                    "width": 1600,
+                                    "height": 900
+                                },
+                                {
+                                    "url": "https://pbs.twimg.com/news_img/1412305573568290818/EgevQEZ2?format=jpg&name=150x150",
+                                    "width": 150,
+                                    "height": 150
+                                }
+                            ],
+                            "status": 200,
+                            "title": "Fox’s New Channel Changes the Climate for Weather TV",
+                            "description": "As viewers tune out cable news, Rupert Murdoch is preparing the debut of Fox Weather, a potentially powerful new player in a sphere long dominated by the Weather Channel.",
+                            "unwound_url": "https://www.nytimes.com/2021/07/06/business/media/fox-weather-channel-plus.html?smid=tw-share"
+                        }
+                    ]
+                },
+                "id": "1412371388883738627",
+                "public_metrics": {
+                    "retweet_count": 7,
+                    "reply_count": 13,
+                    "like_count": 24,
+                    "quote_count": 6
+                },
+                "source": "Twitter Web App",
+                "text": "Amid a waning appetite for political news, media executives are realizing that demand for weather news is ubiquitous — and for an increasing swath of the country, a matter of urgent concern https://t.co/rBQOda1SKi",
+                "reply_settings": "everyone"
+            },
+            {
+                "lang": "en",
+                "author_id": "182619958",
+                "possibly_sensitive": false,
+                "conversation_id": "1412577465545986048",
+                "created_at": "2021-07-07T01:44:20.000Z",
+                "referenced_tweets": [
+                    {
+                        "type": "replied_to",
+                        "id": "1412577465545986048"
+                    }
+                ],
+                "in_reply_to_user_id": "418",
+                "id": "1412588261952864257",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "username": "dens",
+                            "id": "418"
+                        }
+                    ]
+                },
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 1,
+                    "like_count": 1,
+                    "quote_count": 0
+                },
+                "source": "Twitter for iPhone",
+                "text": "@dens 10 seconds too many!",
+                "reply_settings": "everyone"
+            },
+            {
+                "lang": "en",
+                "author_id": "737986556502380544",
+                "possibly_sensitive": false,
+                "conversation_id": "1412592066526334978",
+                "created_at": "2021-07-07T02:02:09.000Z",
+                "referenced_tweets": [
+                    {
+                        "type": "replied_to",
+                        "id": "1412592066526334978"
+                    }
+                ],
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 62,
+                            "end": 85,
+                            "url": "https://t.co/OUGZhwSDf5",
+                            "expanded_url": "https://stonemaiergames.com/target-acquired-how-a-hobby-game-appears-in-a-big-box-retailer/",
+                            "display_url": "stonemaiergames.com/target-acquire…",
+                            "images": [
+                                {
+                                    "url": "https://pbs.twimg.com/news_img/1412592749354827777/J0H8aaCv?format=jpg&name=orig",
+                                    "width": 225,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://pbs.twimg.com/news_img/1412592749354827777/J0H8aaCv?format=jpg&name=150x150",
+                                    "width": 150,
+                                    "height": 150
+                                }
+                            ],
+                            "status": 200,
+                            "title": "Target Acquired: How a Hobby Game Appears in a Big Box Retailer",
+                            "description": "If you’ve walked through a Target store recently, you may have noticed they have a new endcap full of games that are brand new to Target. Some of them are completely brand-new games like Taco Bell …",
+                            "unwound_url": "https://stonemaiergames.com/target-acquired-how-a-hobby-game-appears-in-a-big-box-retailer/"
+                        }
+                    ]
+                },
+                "in_reply_to_user_id": "737986556502380544",
+                "id": "1412592744250449927",
+                "public_metrics": {
+                    "retweet_count": 8,
+                    "reply_count": 2,
+                    "like_count": 67,
+                    "quote_count": 0
+                },
+                "source": "Twitter for Android",
+                "text": "Here's an interesting write-up of how Wingspan got to Target: https://t.co/OUGZhwSDf5",
+                "reply_settings": "everyone"
+            },
+            {
+                "attachments": {
+                    "media_keys": [
+                        "16_1412428825389002752"
+                    ]
+                },
+                "lang": "en",
+                "author_id": "1202396874700804097",
+                "possibly_sensitive": false,
+                "conversation_id": "1412453695787204609",
+                "created_at": "2021-07-06T16:49:37.000Z",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 18,
+                            "end": 41,
+                            "url": "https://t.co/b4vFyv0TC6",
+                            "expanded_url": "https://twitter.com/starturnz/status/1412453695787204609/photo/1",
+                            "display_url": "pic.twitter.com/b4vFyv0TC6"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "start": 0,
+                            "end": 4,
+                            "probability": 0.3487,
+                            "type": "Person",
+                            "normalized_text": "Mario"
+                        }
+                    ]
+                },
+                "id": "1412453695787204609",
+                "public_metrics": {
+                    "retweet_count": 8729,
+                    "reply_count": 196,
+                    "like_count": 42980,
+                    "quote_count": 257
+                },
+                "source": "Twitter Web App",
+                "text": "Mario / 95 covers https://t.co/b4vFyv0TC6",
+                "reply_settings": "everyone"
+            },
+            {
+                "lang": "en",
+                "author_id": "312479100",
+                "possibly_sensitive": false,
+                "conversation_id": "1412461445258874887",
+                "created_at": "2021-07-06T17:26:29.000Z",
+                "referenced_tweets": [
+                    {
+                        "type": "replied_to",
+                        "id": "1412461445258874887"
+                    }
+                ],
+                "in_reply_to_user_id": "418",
+                "id": "1412462971859587076",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "username": "dens",
+                            "id": "418"
+                        },
+                        {
+                            "start": 6,
+                            "end": 17,
+                            "username": "googlenest",
+                            "id": "168264219"
+                        }
+                    ]
+                },
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 1,
+                    "like_count": 0,
+                    "quote_count": 0
+                },
+                "source": "Twitter for iPhone",
+                "text": "@dens @googlenest Don’t think so :(",
+                "reply_settings": "everyone"
+            },
+            {
+                "lang": "en",
+                "author_id": "15040743",
+                "possibly_sensitive": false,
+                "conversation_id": "1412420184380522505",
+                "created_at": "2021-07-06T14:42:12.000Z",
+                "referenced_tweets": [
+                    {
+                        "type": "replied_to",
+                        "id": "1412420591030841359"
+                    }
+                ],
+                "in_reply_to_user_id": "418",
+                "id": "1412421628961693698",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "username": "dens",
+                            "id": "418"
+                        }
+                    ]
+                },
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 1,
+                    "like_count": 0,
+                    "quote_count": 0
+                },
+                "source": "Twitter Web App",
+                "text": "@dens Do you have any internal thoughts on how much you value an email address as a lead/potential return customer/retargeting etc?",
+                "reply_settings": "everyone"
+            },
+            {
+                "lang": "en",
+                "author_id": "192633618",
+                "possibly_sensitive": false,
+                "conversation_id": "1412420184380522505",
+                "created_at": "2021-07-06T14:41:00.000Z",
+                "referenced_tweets": [
+                    {
+                        "type": "replied_to",
+                        "id": "1412420591030841359"
+                    }
+                ],
+                "in_reply_to_user_id": "418",
+                "id": "1412421325512138759",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "username": "dens",
+                            "id": "418"
+                        }
+                    ]
+                },
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 1,
+                    "like_count": 0,
+                    "quote_count": 0
+                },
+                "source": "Twitter Web App",
+                "text": "@dens Was there any decline in ticket sales?",
+                "reply_settings": "everyone"
+            },
+            {
+                "attachments": {
+                    "media_keys": [
+                        "3_1412254825539063811"
+                    ]
+                },
+                "lang": "en",
+                "author_id": "4733771",
+                "possibly_sensitive": false,
+                "conversation_id": "1409506346391719941",
+                "created_at": "2021-07-06T04:04:02.000Z",
+                "referenced_tweets": [
+                    {
+                        "type": "replied_to",
+                        "id": "1409506346391719941"
+                    }
+                ],
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 162,
+                            "end": 185,
+                            "url": "https://t.co/gXZgE4R9Wa",
+                            "expanded_url": "https://twitter.com/evco/status/1412261030957305856/photo/1",
+                            "display_url": "pic.twitter.com/gXZgE4R9Wa"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "start": 18,
+                            "end": 20,
+                            "probability": 0.5628,
+                            "type": "Place",
+                            "normalized_text": "NYC"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "username": "dens",
+                            "id": "418"
+                        }
+                    ]
+                },
+                "in_reply_to_user_id": "418",
+                "id": "1412261030957305856",
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 1,
+                    "like_count": 4,
+                    "quote_count": 0
+                },
+                "source": "Twitter Web App",
+                "text": "@dens The king of NYC tech, then and now! Congratulations on an epic run, and for showing the world tech could be fun. What an honor to have been there with you! https://t.co/gXZgE4R9Wa",
+                "reply_settings": "everyone"
+            },
+            {
+                "lang": "en",
+                "author_id": "418",
+                "possibly_sensitive": false,
+                "conversation_id": "1412420184380522505",
+                "created_at": "2021-07-06T14:36:28.000Z",
+                "id": "1412420184380522505",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 17,
+                            "end": 28,
+                            "username": "StockadeFC",
+                            "id": "3343183865"
+                        }
+                    ]
+                },
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 1,
+                    "like_count": 22,
+                    "quote_count": 1
+                },
+                "source": "Twitter Web App",
+                "text": "⚽️✉️ Interesting @StockadeFC tidbit:  w/ COVID we required order-online + digital tickets (via Eventbrite). So we went from \"90% box office, 10% digital tix\" in 2019 -&gt; \"100% digital tix\" in 2021.  As digital tickets require email address, Stockade email list is now 2x bigger.",
+                "reply_settings": "everyone"
+            },
+            {
+                "lang": "en",
+                "author_id": "15534499",
+                "possibly_sensitive": false,
+                "conversation_id": "1412199737739128838",
+                "created_at": "2021-07-06T00:10:46.000Z",
+                "referenced_tweets": [
+                    {
+                        "type": "replied_to",
+                        "id": "1412201776766402570"
+                    }
+                ],
+                "in_reply_to_user_id": "418",
+                "entities": {
+                    "annotations": [
+                        {
+                            "start": 159,
+                            "end": 168,
+                            "probability": 0.9941,
+                            "type": "Place",
+                            "normalized_text": "California"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 0,
+                            "end": 5,
+                            "username": "dens",
+                            "id": "418"
+                        },
+                        {
+                            "start": 11,
+                            "end": 20,
+                            "username": "INKnBURN",
+                            "id": "34088945"
+                        }
+                    ]
+                },
+                "geo": {
+                    "place_id": "3797791ff9c0e4c6"
+                },
+                "id": "1412202326618673153",
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 1,
+                    "like_count": 0,
+                    "quote_count": 0
+                },
+                "source": "Twitter for iPhone",
+                "text": "@dens It’s @INKnBURN it was a limited edition club shirt. \n\nBut they have amazing designs.  Stuff for guys, too.  Check them out. All designed and produced in California.",
+                "reply_settings": "everyone"
+            },
+            {
+                "attachments": {
+                    "media_keys": [
+                        "3_1412199736661139456"
+                    ]
+                },
+                "lang": "en",
+                "author_id": "15534499",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "start": 98,
+                            "end": 112,
+                            "tag": "INBJulyStreak"
+                        },
+                        {
+                            "start": 113,
+                            "end": 133,
+                            "tag": "INBStrongerTogether"
+                        },
+                        {
+                            "start": 134,
+                            "end": 143,
+                            "tag": "Hardcore"
+                        },
+                        {
+                            "start": 144,
+                            "end": 150,
+                            "tag": "hcotf"
+                        },
+                        {
+                            "start": 151,
+                            "end": 159,
+                            "tag": "Peloton"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "start": 160,
+                            "end": 183,
+                            "url": "https://t.co/2IBh2LmDWR",
+                            "expanded_url": "https://instagr.am/p/CQ9uajThfEC/",
+                            "display_url": "instagr.am/p/CQ9uajThfEC/",
+                            "images": [
+                                {
+                                    "url": "https://pbs.twimg.com/news_img/1412199740008194048/sEttq1g5?format=jpg&name=orig",
+                                    "width": 1080,
+                                    "height": 1350
+                                },
+                                {
+                                    "url": "https://pbs.twimg.com/news_img/1412199740008194048/sEttq1g5?format=jpg&name=150x150",
+                                    "width": 150,
+                                    "height": 150
+                                }
+                            ],
+                            "status": 200,
+                            "title": "Karen Lopez on Instagram: “Finished a 45 minute power walk and Stretch just in time for a massive thunderstorm to roll in. #INBJulyStreak #INBStrongerTogether…”",
+                            "description": "4 Likes, 0 Comments - Karen Lopez (@datachick) on Instagram: “Finished a 45 minute power walk and Stretch just in time for a massive thunderstorm to roll in.…”",
+                            "unwound_url": "https://www.instagram.com/p/CQ9uajThfEC/"
+                        },
+                        {
+                            "start": 184,
+                            "end": 207,
+                            "url": "https://t.co/FpvWKhJ2Gp",
+                            "expanded_url": "https://twitter.com/datachick/status/1412199737739128838/photo/1",
+                            "display_url": "pic.twitter.com/FpvWKhJ2Gp"
+                        }
+                    ]
+                },
+                "possibly_sensitive": false,
+                "conversation_id": "1412199737739128838",
+                "created_at": "2021-07-06T00:00:29.000Z",
+                "id": "1412199737739128838",
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 2,
+                    "like_count": 3,
+                    "quote_count": 0
+                },
+                "source": "IFTTT",
+                "text": "Finished a 45 minute power walk and Stretch just in time for a massive thunderstorm to roll in. \n\n#INBJulyStreak #INBStrongerTogether #Hardcore #hcotf #Peloton https://t.co/2IBh2LmDWR https://t.co/FpvWKhJ2Gp",
+                "reply_settings": "everyone"
+            },
+            {
+                "attachments": {
+                    "media_keys": [
+                        "3_1412013991094784006"
+                    ]
+                },
+                "lang": "en",
+                "author_id": "284013628",
+                "possibly_sensitive": false,
+                "conversation_id": "1412014368804454400",
+                "created_at": "2021-07-05T11:43:54.000Z",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 254,
+                            "end": 277,
+                            "url": "https://t.co/9Hg0Qz8TnJ",
+                            "expanded_url": "https://driesdepoorter.be/theflemishscrollers",
+                            "display_url": "driesdepoorter.be/theflemishscro…",
+                            "images": [
+                                {
+                                    "url": "https://pbs.twimg.com/news_img/1412012892556234754/nLnv4HqQ?format=jpg&name=orig",
+                                    "width": 1116,
+                                    "height": 745
+                                },
+                                {
+                                    "url": "https://pbs.twimg.com/news_img/1412012892556234754/nLnv4HqQ?format=jpg&name=150x150",
+                                    "width": 150,
+                                    "height": 150
+                                }
+                            ],
+                            "status": 200,
+                            "title": "The Flemish Scrollers, 2021",
+                            "description": "How does it work? Every meeting of the flemish government in Belgium is live streamed on a youtube channel. When a livestream starts the software is searching for phones and tries to identify a distracted politician. This is done with the help of AI and face recognition. The video of the distracted politician are then…",
+                            "unwound_url": "https://driesdepoorter.be/theflemishscrollers"
+                        },
+                        {
+                            "start": 278,
+                            "end": 301,
+                            "url": "https://t.co/kwzcn2DjfB",
+                            "expanded_url": "https://twitter.com/driesdepoorter/status/1412014368804454400/photo/1",
+                            "display_url": "pic.twitter.com/kwzcn2DjfB"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "start": 204,
+                            "end": 210,
+                            "probability": 0.6701,
+                            "type": "Product",
+                            "normalized_text": "Twitter"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 210,
+                            "end": 226,
+                            "username": "FlemishScroller",
+                            "id": "1410584809160777728"
+                        }
+                    ]
+                },
+                "id": "1412014368804454400",
+                "public_metrics": {
+                    "retweet_count": 1528,
+                    "reply_count": 140,
+                    "like_count": 4889,
+                    "quote_count": 511
+                },
+                "source": "Twitter Web App",
+                "text": "🔥NEW PROJECT🔥\n'The Flemish Scrollers' is software automatically tagging distracted Belgian politician when they use their phone on the daily livestreams. This with the help of AI. Results are posted on Twitter @FlemishScroller and IG TheFlemishScrollers\nhttps://t.co/9Hg0Qz8TnJ https://t.co/kwzcn2DjfB",
+                "reply_settings": "everyone"
+            }
+        ]
+    },
+    "meta": {
+        "oldest_id": "1412200933627473924",
+        "newest_id": "1413191027658199043",
+        "result_count": 20,
+        "next_token": "7140dibdnow9c7btw3z16xau8gjtarcysm524pzqpsmk4"
+    }
+}

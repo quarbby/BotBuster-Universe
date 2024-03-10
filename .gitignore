@@ -1,0 +1,7 @@
+__pycache__/*
+logs/*
+build/*
+dist/*
+temp/*
+.DS_Store
+0_For_Github/*

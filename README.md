@@ -48,4 +48,4 @@ All Bot Detection and Analysis papers: https://quarbby.github.io/research/botbus
 3. Ng, L. H. X., & Carley, K. M. (2023). Deflating the Chinese balloon: types of Twitter bots in US-China balloon incident. EPJ Data Science, 12(1), 63.
 
 ## Screenshots
-![screenshot](./screenshot.PNG)
+![screenshot](./screenshot_2.PNG)

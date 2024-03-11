@@ -5,7 +5,7 @@
 - BotSorter: Identifies the type of user, in terms of : self-declared bot user, news user, bridging user, amplifier, cyborg, content generation, announcer and repeater.
 Note that this does not differentiate into bot or not, and you should merge the results with the bot detection dataset to identify if the user is a bot or not with the properties.
 
-- BotBias: Identifies the bias present in a message, in terms of : homophily, affect bias, negativity bias, authority bias, illusory truth effect, availability bias, confirmation bias
+- BotBias: Identifies the human bias present in a message, in terms of : homophily, affect bias, negativity bias, authority bias, illusory truth effect, availability bias, confirmation bias
 
 ## Installation
 1. Install Python Version 3.9.7

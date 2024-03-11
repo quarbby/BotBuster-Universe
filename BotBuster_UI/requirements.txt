@@ -1,6 +1,6 @@
 tkinter==8.6
 emoji==1.6.1
-sentence_transformers==2.1.0
+sentence_transformers
 vaderSentiment==3.3.2
 nltk
 pandas

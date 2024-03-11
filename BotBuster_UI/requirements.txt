@@ -1,4 +1,4 @@
-tkinter==8.6
+tk
 emoji==1.6.1
 sentence_transformers
 vaderSentiment==3.3.2

@@ -310,7 +310,7 @@ if __name__ == "__main__":
     # Row 1: Welcome message
     welcome_label = tk.Label(root, text="Welcome to BotBuster Universe", font=("Bebas Neue", 40))
     welcome_label.grid(row=0, column=0, columnspan=2, pady=10, sticky="ew")
-    welcome_label_2 = tk.Label(root, wraplength=800, text="(1) BotBuster: Detecting Bots, (2) BotSorter: Identifying Bot Types, (3) BotBias: Identifying Biases in Messages", font=("Bebas Neue", 16))
+    welcome_label_2 = tk.Label(root, wraplength=800, text="(1) BotBuster: Detecting Bots, (2) BotSorter: Identifying Bot Types, (3) BotBias: Identifying Use of Human Biases in Messages", font=("Bebas Neue", 16))
     welcome_label_2.grid(row=1, column=0, columnspan=2, pady=10, sticky="ew")
 
     # Row 2: File Upload Button and Platform Selection

@@ -16,8 +16,10 @@ Note that this does not differentiate into bot or not, and you should merge the 
 Check out test_data/
 
 ## Interpreting BotBuster Outputs
-Use the column `botornot`. 
-The user is a bot if the `humanprob` is greater than `botprob`
+1. BotBuster outputs are stored in the file temp/.../*_bots.json
+Use the column `botornot`. The user is a bot if the `humanprob` is greater than `botprob`
+2. BotSorter outputs are stored in the file temp/.../*_botsorter.json
+3. BotBias outputs are stored in the file temp/.../*_bias.json
 
 ## Reference Papers:
 All Bot Detection and Analysis papers: https://quarbby.github.io/research/botbuster_universe.html. Select few are listed here:

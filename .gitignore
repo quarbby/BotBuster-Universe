@@ -1,7 +1,7 @@
-__pycache__/*
-logs/*
-build/*
-dist/*
-temp/*
+BotBuster_UI/__pycache__/*
+BotBuster_UI/logs/*
+BotBuster_UI/build/*
+BotBuster_UI/dist/*
+BotBuster_UI/temp/*
 .DS_Store
-0_For_Github/*
+__pycache__/*

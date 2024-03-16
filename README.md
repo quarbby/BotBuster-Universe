@@ -12,6 +12,8 @@ Note that this does not differentiate into bot or not, and you should merge the 
 2. Run `python -r requirements.txt`
 3. Run `BotBuster_UI/python main_ui.py`
 
+Should you want to run BotBuster separate with custom fields, check out 2024_botbuster_only.py
+
 ## Formatting Data
 Check out test_data/
 

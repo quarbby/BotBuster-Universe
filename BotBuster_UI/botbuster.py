@@ -33,7 +33,7 @@ def read_models():
         return 0
 
 def check_known_expert(username, screenname, description, is_verified):
-    if is_verified:
+    if is_verified == True:
         return 'human'
     
     if username != None and username != '':

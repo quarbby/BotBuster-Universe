@@ -22,7 +22,7 @@ Use the column `botornot`. The user is a bot if the `humanprob` is greater than 
 3. BotBias outputs are stored in the file temp/.../*_bias.json
 
 ## Reference Papers:
-All Bot Detection and Analysis papers: https://quarbby.github.io/research/botbuster_universe.html. Select few are listed here:
+All Bot Detection and Analysis papers <a href="https://quarbby.github.io/research/botbuster_universe.html" target="_blank">here</a>. Select few are listed here:
 
 *Key Citation*
 ```
@@ -47,5 +47,11 @@ All Bot Detection and Analysis papers: https://quarbby.github.io/research/botbus
 2. Marigliano, R., Ng, L. H. X., & Carley, K. M. (2024). Analyzing Digital Propaganda and Conflict Rhetoric: A Study on Russia’s Bot-Driven Campaigns and Counter-Narratives during the Ukraine Crisis.
 3. Ng, L. H. X., & Carley, K. M. (2023). Deflating the Chinese balloon: types of Twitter bots in US-China balloon incident. EPJ Data Science, 12(1), 63.
 
+## Help me out!
+If you see this and you love it, please help me out! 
+I went through a heart transplant during my 3rd year of my PhD. The partial story is documented on my  <a href="https://quarbby.github.io/blog/hearttransplant.html" target="_blank">blog</a>. 
+If you would like to make a donation to help my transplant costs, or my software engineering costs, you may use <a href="https://venmo.com/u/Lynnette-Ng" target="_blank" >Venmo</a> @Lynnette-Ng with last 4-digits as 1254, or <a href="https://paypal.me/lynnettenghx?country.x=SG" target="_blank">PayPal</a> @lynnettenghx.
+It will be greatly appreciated. 
+
 ## Screenshots
-![screenshot](./screenshot.PNG)
+![screenshot](./screenshot_2.PNG)
